@@ -47,14 +47,6 @@ Full findings and supporting charts are in the notebook and project presentation
 | Visualization | Matplotlib, Seaborn |
 | Statistical testing | SciPy (one-way ANOVA) |
 
-## Repository Structure
-
-├── Seasonal_Agriculture_Performance_Analysis.ipynb # Full analysis notebook
-├── seasonal_agriculture_performance_dataset.csv # Dataset
-├── Seasonal_Agriculture_Performance_Analysis_PPT.pptx # Project presentation
-└── README.md
-
-
 ## How to Run
 
 1. Clone the repository:
